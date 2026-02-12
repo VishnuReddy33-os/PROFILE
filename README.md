@@ -75,19 +75,24 @@
 ---
 
 ## 🎓 Education
+
 **Bachelor of Technology — Computer Science & Engineering**  
 SVREC, Nandyal  
 📅 *2024 – 2028* | 🎯 *CGPA 8.50/10*
+
 ---
-**📘Intermediate (MPC)**
-SV Junior College, Banaganapalli
+
+**📘 Intermediate (MPC)**  
+SV Junior College, Banaganapalli  
 📅 *2022 – 2024* | 🎯 *CGPA 8.57/10*
+
 ---
-**🏫Secondary School(SSC)**
-GBM ZP High School, Velgodu
-📅 Completed: 2022
+
+**🏫 Secondary School (SSC)**  
+GBM ZP High School, Velgodu  
+📅 Completed: 2022  
 🎯 CGPA: 7.33 / 10
-****
+
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
