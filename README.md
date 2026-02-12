@@ -77,10 +77,17 @@
 ## 🎓 Education
 **Bachelor of Technology — Computer Science & Engineering**  
 SVREC, Nandyal  
-📅 *2024 – 2028* | 🎯 *CGPA 8.5*
-
+📅 *2024 – 2028* | 🎯 *CGPA 8.50/10*
 ---
-
+**📘Intermediate (MPC)**
+SV Junior College, Banaganapalli
+📅 *2022 – 2024* | 🎯 *CGPA 8.57/10*
+---
+**🏫Secondary School(SSC)**
+GBM ZP High School, Velgodu
+📅 Completed: 2022
+🎯 CGPA: 7.33 / 10
+****
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
@@ -92,7 +99,7 @@ SVREC, Nandyal
 
 ## 📫 Let's Connect
 
-- <p> <a href="https://www.linkedin.com/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> </a> </p>  
+- <p> <a href="https://www.linkedin.com/in/gundam-vishnu-vardhan-reddy-01b158346/?originalSubdomain=in"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> </a> </p>  
 - <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" /> </a> </p>
 
 ---
