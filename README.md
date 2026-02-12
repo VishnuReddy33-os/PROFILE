@@ -82,16 +82,15 @@ SVREC, Nandyal
 
 ---
 
-**📘 Intermediate (MPC)**  
+**Intermediate (MPC)**  
 SV Junior College, Banaganapalli  
 📅 *2022 – 2024* | 🎯 *CGPA 8.57/10*
 
 ---
 
-**🏫 Secondary School (SSC)**  
+**Secondary School (SSC)**  
 GBM ZP High School, Velgodu  
-📅 Completed: 2022  
-🎯 CGPA: 7.33 / 10
+📅 *2022* | 🎯 *CGPA 7.33 / 10*
 
 ## 📈 GitHub Stats & Activity
 
