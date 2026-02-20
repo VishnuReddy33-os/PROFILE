@@ -95,16 +95,21 @@ GBM ZP High School, Velgodu
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VishnuVardhanReddy&show_icons=true&theme=dark" width="32%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishnuVardhanReddy&theme=dark" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuVardhanReddy&layout=compact&theme=dark" width="32%" />
 </p>
 
 ---
-
 ## 📫 Let's Connect
 
-- <p> <a href="https://www.linkedin.com/in/gundam-vishnu-vardhan-reddy-01b158346/?originalSubdomain=in"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> </a> </p>  
-- <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" /> </a> </p>
+- <p> <a href="https://www.linkedin.com/in/gundam-vishnu-vardhan-reddy-01b158346/?originalSubdomain=in"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> 
+  </a> </p>  
+
+- <p> <a href="https://github.com/VishnuReddy33-os" target="_blank"> 
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" /> 
+  </a> </p>  
 
 ---
 
